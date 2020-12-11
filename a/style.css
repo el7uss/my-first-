@@ -1,0 +1,122 @@
+/* start main rules */
+    body{background: white ;  }
+
+.container {
+    width:1170px ;
+    margin:auto }
+.clearfix {clear: both}
+
+
+
+
+
+/* end of main rules */
+/*start header*/
+
+.header .slider {background-image:url('./1/myy.jpg');background-size: cover;height: 700px ;}
+.header .slider .intro  { text-align: center;padding-top: 300px;color: #fff;}
+.header .slider .intro  h3 { border-bottom:  2px solid #FFF;border-top:  2px solid #FFF ;width: 600px ;margin: 0 auto; font-size: 70PX; ;;color:whitesmoke ;}
+.header .slider .intro  button {background: none;color: #fff ;border: 1px solid; padding: 10 px 10 px ;font-size: 30 px ;}
+.header .navbar {background-color:#252f31; color:#fff ; overflow: hidden ;}
+.header .navbar  h2 {float: left;}
+.header .navbar  h2 span  {color: green;}
+.header .navbar ul {list-style: none;padding-left: 0 ; overflow: hidden;float: right}
+.header .navbar ul li {float:left ; padding: 10px }
+.header .navbar ul li a  {text-decoration: none ; color: #fff ;  }
+.header .navbar ul li.active a,
+
+.header .navbar ul li a:hover  {color: greenyellow ;  }
+
+
+/*end header*/
+/*start features*/
+
+.features{background-color:auto; margin-top: 0 px; padding-top:40px ; }
+.features {overflow: hidden; padding-top:30 px;padding-bottom:30px ; }
+.me{width:33.333% ; float: left ; height: 150px ;}
+.me h2 {text-transform: uppercase}
+
+
+
+/*end features*/
+
+/*start about me */
+.aboutme{background-color: #ededed;overflow: hidden}
+.image{float: left ; width: 40%}
+.image image {width:50%}
+
+.info{float: right;width: 60% }
+.skills{overflow: hidden;margin: 15px }
+.skills > div {float:left ; width:50% ; min-height: 100px; }
+
+
+
+
+
+
+
+
+/*end about me */
+
+
+/*start my skills  */
+.skil{overflow: hidden ; padding-top:30px ; padding-bottom:30 px}
+.programs{float:left ; width:50%}
+.my{float:left ; width:50%}
+
+
+
+
+
+
+
+
+
+
+/*end my skills */
+
+/*start resume */
+.resume{text-align: center ; background-color: #f2f2f2 ; padding:20px ; overflow: hidden}
+/*end resume */
+
+/*start education */
+.education{overflow: hidden ; padding-top:30px ; padding-bottom:30 px}
+.parag{float:left ; width:50%}
+.certs{float:left ; width:50%}
+
+/*end education  */
+/*start devision */
+.devision{text-align: center ; background-color: #f2f2f2 ; padding:20px }
+/*end devision */
+
+
+
+
+
+/*start portofolio */
+.portofolio {padding-bottom: 30px ; padding-top: 30 px  }
+.portofolio .ourwork{overflow: hidden;}
+.portofolio .ourwork > div  {float: left ; width:33.33333% ; margin-bottom:  16px  }
+.portofolio .ourwork > div img  { width:92% ; margin: 10px  }
+
+
+/*end portofolio */
+
+/*start  contacts */
+
+.contacts{text-align: center ; background-color:#4b0000 ; padding:20px }
+.contacts{overflow: hidden;}
+.contacts .coninfo {float: left; width: 50% ;}
+
+
+/*end contacts */
+
+/*start  footer */  
+
+.footer {background-color: royalblue ; padding: 20 px 0 ;text-align: center;}
+
+
+
+
+/*end  footer */
+
